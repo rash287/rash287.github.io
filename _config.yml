@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://rash287.github.io
+title: rash287
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
